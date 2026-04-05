@@ -1,0 +1,6 @@
+/home/runner/work/auth-service/auth-service/src/main/java/com/mycommunityrvks/authservice/service/UserService.java
+/home/runner/work/auth-service/auth-service/src/main/java/com/mycommunityrvks/authservice/AuthServiceApplication.java
+/home/runner/work/auth-service/auth-service/src/main/java/com/mycommunityrvks/authservice/entity/User.java
+/home/runner/work/auth-service/auth-service/src/main/java/com/mycommunityrvks/authservice/controller/HealthController.java
+/home/runner/work/auth-service/auth-service/src/main/java/com/mycommunityrvks/authservice/repository/UserRepository.java
+/home/runner/work/auth-service/auth-service/src/main/java/com/mycommunityrvks/authservice/dto/UserDto.java
