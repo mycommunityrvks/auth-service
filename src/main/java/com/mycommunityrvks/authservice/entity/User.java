@@ -32,7 +32,7 @@ public class User {
     private String email;
 
     @Column(nullable = false)
-    private Boolean isActive;
+    private Boolean active;
 
     @CreationTimestamp
     @Column(nullable = false, updatable = false)
