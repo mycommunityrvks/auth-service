@@ -1,0 +1,8 @@
+com/mycommunityrvks/authservice/entity/User.class
+com/mycommunityrvks/authservice/entity/User$UserBuilder.class
+com/mycommunityrvks/authservice/dto/UserDto.class
+com/mycommunityrvks/authservice/AuthServiceApplication.class
+com/mycommunityrvks/authservice/dto/UserDto$UserDtoBuilder.class
+com/mycommunityrvks/authservice/controller/HealthController.class
+com/mycommunityrvks/authservice/repository/UserRepository.class
+com/mycommunityrvks/authservice/service/UserService.class
